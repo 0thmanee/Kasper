@@ -1,0 +1,19 @@
+/* SMALL DEVICES: 768px */
+@media(max-width: 48em){
+    .container{
+        max-width: 75rem;
+    }
+}
+/* MEDIUM DEVICES: 992px */
+@media(max-width: 62em){
+    .container{
+        max-width: 97rem;
+    }
+    
+
+/* LARGE DEVICES: 1200px */
+@media(max-width: 75em){
+    .container{
+        max-width: 117rem;
+    }
+}
